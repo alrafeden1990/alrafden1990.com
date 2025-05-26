@@ -1,0 +1,76 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2025-05-24 03:19:45",
+    "containerVersion": {
+        "path": "accounts/6295020689/containers/219983231/versions/1",
+        "accountId": "6295020689",
+        "containerId": "219983231",
+        "containerVersionId": "1",
+        "name": "Empty Container",
+        "container": {
+            "path": "accounts/6295020689/containers/219983231",
+            "accountId": "6295020689",
+            "containerId": "219983231",
+            "name": "www.youtube.com/@alrafden1990",
+            "publicId": "GTM-W3KDB7DS",
+            "usageContext": [
+                "AMP"
+            ],
+            "fingerprint": "1747188368877",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6295020689/containers/219983231/workspaces?apiLink=container",
+            "features": {
+                "supportUserPermissions": true,
+                "supportEnvironments": true,
+                "supportWorkspaces": true,
+                "supportGtagConfigs": false,
+                "supportBuiltInVariables": true,
+                "supportClients": false,
+                "supportFolders": true,
+                "supportTags": true,
+                "supportTemplates": true,
+                "supportTriggers": true,
+                "supportVariables": true,
+                "supportVersions": true,
+                "supportZones": true,
+                "supportTransformations": false
+            },
+            "tagIds": [
+                "GTM-W3KDB7DS"
+            ]
+        },
+        "builtInVariable": [
+            {
+                "accountId": "6295020689",
+                "containerId": "219983231",
+                "type": "PAGE_URL",
+                "name": "Page URL"
+            },
+            {
+                "accountId": "6295020689",
+                "containerId": "219983231",
+                "type": "PAGE_HOSTNAME",
+                "name": "Page Hostname"
+            },
+            {
+                "accountId": "6295020689",
+                "containerId": "219983231",
+                "type": "PAGE_PATH",
+                "name": "Page Path"
+            },
+            {
+                "accountId": "6295020689",
+                "containerId": "219983231",
+                "type": "AMP_BROWSER_LANGUAGE",
+                "name": "Browser Language"
+            },
+            {
+                "accountId": "6295020689",
+                "containerId": "219983231",
+                "type": "AMP_REFERRER",
+                "name": "Document Referrer"
+            }
+        ],
+        "fingerprint": "1747188368881",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6295020689/containers/219983231/versions/1?apiLink=version"
+    }
+}
